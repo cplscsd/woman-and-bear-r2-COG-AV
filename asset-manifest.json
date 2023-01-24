@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/woman-and-bear-r2-COG-AV/static/css/main.c2cef5d5.css",
-    "main.js": "/woman-and-bear-r2-COG-AV/static/js/main.7054350b.js",
+    "main.css": "/woman-and-bear-r2-COG-AV/static/css/main.b9d6da84.css",
+    "main.js": "/woman-and-bear-r2-COG-AV/static/js/main.b9c42147.js",
     "static/js/787.85e0a44e.chunk.js": "/woman-and-bear-r2-COG-AV/static/js/787.85e0a44e.chunk.js",
+    "static/media/intro.m4v": "/woman-and-bear-r2-COG-AV/static/media/intro.e41160f26f1745c81dcb.m4v",
     "static/media/page08wf.png": "/woman-and-bear-r2-COG-AV/static/media/page08wf.c39f734907381a096b5c.png",
     "static/media/page02wf.png": "/woman-and-bear-r2-COG-AV/static/media/page02wf.a7f3ffd4f07a625f3056.png",
     "static/media/page07wf.png": "/woman-and-bear-r2-COG-AV/static/media/page07wf.aaf2ac0c2cd17bdf096c.png",
@@ -14,16 +15,16 @@
     "static/media/page09wf.png": "/woman-and-bear-r2-COG-AV/static/media/page09wf.9ab5b262c80fb6f4d771.png",
     "static/media/page10wf.png": "/woman-and-bear-r2-COG-AV/static/media/page10wf.260d0ed261c164471461.png",
     "static/media/page06wf.png": "/woman-and-bear-r2-COG-AV/static/media/page06wf.51c829f4e31f0bb17c5e.png",
-    "static/media/intro.mp3": "/woman-and-bear-r2-COG-AV/static/media/intro.c85b50f3418a65adf9d2.mp3",
+    "static/media/2.T_cog_metacog.mp3": "/woman-and-bear-r2-COG-AV/static/media/2.T_cog_metacog.cdc28f2073648d05f204.mp3",
     "static/media/Century Gothic.ttf": "/woman-and-bear-r2-COG-AV/static/media/Century Gothic.b194aa2bd524e2c973f7.ttf",
     "static/media/Avatar.png": "/woman-and-bear-r2-COG-AV/static/media/Avatar.01842f6936c3117820fd.png",
     "index.html": "/woman-and-bear-r2-COG-AV/index.html",
-    "main.c2cef5d5.css.map": "/woman-and-bear-r2-COG-AV/static/css/main.c2cef5d5.css.map",
-    "main.7054350b.js.map": "/woman-and-bear-r2-COG-AV/static/js/main.7054350b.js.map",
+    "main.b9d6da84.css.map": "/woman-and-bear-r2-COG-AV/static/css/main.b9d6da84.css.map",
+    "main.b9c42147.js.map": "/woman-and-bear-r2-COG-AV/static/js/main.b9c42147.js.map",
     "787.85e0a44e.chunk.js.map": "/woman-and-bear-r2-COG-AV/static/js/787.85e0a44e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2cef5d5.css",
-    "static/js/main.7054350b.js"
+    "static/css/main.b9d6da84.css",
+    "static/js/main.b9c42147.js"
   ]
 }
